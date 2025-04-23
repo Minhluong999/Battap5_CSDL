@@ -42,3 +42,29 @@ các bảng diagram thuộc tích CK, Fk
 ![image](https://github.com/user-attachments/assets/434d42aa-81d4-4e26-9917-d10284eec60f)
 
 
+Thêm trường phi chuẩn vào bảng DatVe
+
+![image](https://github.com/user-attachments/assets/97662a28-b001-43d1-a190-d872285a63bc)
+
+Trigger 
+
+![image](https://github.com/user-attachments/assets/d8172141-7386-4441-a97a-4ad69aa24a96)
+
+nhập dữ liệu 
+
+
+![image](https://github.com/user-attachments/assets/0b1ebdcd-766b-4715-9b87-c3c5f104f88d)
+
+
+truy xuất dữ liệu 
+
+![image](https://github.com/user-attachments/assets/995de26b-89ed-493e-a701-56782b97585a)
+
+Kết luận 
+trigger ghichu giúp đồ án của em : 
+Tự động hóa xử lý: Kiểm tra, xử lý dữ liệu và thông báo dựa trên nội dung ghi chú.
+Đảm bảo dữ liệu chính xác: Ngăn chặn việc nhập dữ liệu sai hoặc không phù hợp.
+Tiết kiệm thời gian: Thực hiện các hành động tự động, giảm công sức xử lý thủ công.
+Cải thiện trải nghiệm người dùng: Tăng tính tương tác và đáp ứng nhu cầu cá nhân hóa.
+Theo dõi và bảo mật: Ghi nhật ký thay đổi liên quan đến trường ghi chú. 
+
