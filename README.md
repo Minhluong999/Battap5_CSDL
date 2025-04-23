@@ -26,11 +26,17 @@ B. Nội dung Bài tập 05:
 ------------------------------------------------------------------------------------------------------------------
 Bài làm 
 A.PHÂN TÍCH THIẾT VÀ KẾ HỆ THỐNG QUẢN LÝ BÁN VÉ XE BUS HÀ LAN
+
 1.Mô tả đồ án
+
 Đồ án “Phân tích và thiết kế hệ thống bán vé xe buýt Hà Lan” hướng đến việc xây dựng một hệ thống quản lý bán vé hiện đại, tiện lợi và hiệu quả, nhằm khắc phục những bất cập trong phương pháp truyền thống như mất thời gian, khó kiểm soát doanh thu, và thông tin hành khách. Hệ thống giúp hành khách dễ dàng mua vé, tra cứu lộ trình, đồng thời hỗ trợ nhà quản lý theo dõi doanh thu, quản lý tuyến xe, và tối ưu hóa hoạt động vận tải. Đồ án tập trung vào việc phân tích yêu cầu thực tế, thiết kế kiến trúc hệ thống, mô hình dữ liệu và các chức năng chính, đồng thời rèn luyện kỹ năng phân tích hệ thống và ứng dụng các công nghệ hiện đại trong lĩnh vực công nghệ thông tin.
+
 2.Yêu cầu bài toán. 
+
 Đồ án tập trung vào việc phân tích và thiết kế hệ thống bán vé xe buýt hiện đại, nhằm khắc phục những bất cập của phương pháp truyền thống như mất thời gian, khó kiểm soát doanh thu và thông tin hành khách. Hệ thống này cho phép hành khách mua vé, tra cứu lộ trình dễ dàng, đồng thời hỗ trợ nhà quản lý trong việc theo dõi doanh thu, quản lý tuyến xe và tối ưu hóa hoạt động vận tải, với trọng tâm là ứng dụng công nghệ tiên tiến và thiết kế hiệu quả.
+
 B.Cơ sở dữ liệu.
+
 Tạo database gồm các bảng 
 
 ![image](https://github.com/user-attachments/assets/cb1e1f41-7a60-4867-b6a6-d737cc70fd08)
@@ -61,10 +67,16 @@ truy xuất dữ liệu
 ![image](https://github.com/user-attachments/assets/995de26b-89ed-493e-a701-56782b97585a)
 
 Kết luận 
+
 trigger ghichu giúp đồ án của em : 
+
 Tự động hóa xử lý: Kiểm tra, xử lý dữ liệu và thông báo dựa trên nội dung ghi chú.
+
 Đảm bảo dữ liệu chính xác: Ngăn chặn việc nhập dữ liệu sai hoặc không phù hợp.
+
 Tiết kiệm thời gian: Thực hiện các hành động tự động, giảm công sức xử lý thủ công.
+
 Cải thiện trải nghiệm người dùng: Tăng tính tương tác và đáp ứng nhu cầu cá nhân hóa.
+
 Theo dõi và bảo mật: Ghi nhật ký thay đổi liên quan đến trường ghi chú. 
 
