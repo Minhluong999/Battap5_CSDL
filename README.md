@@ -42,17 +42,18 @@ Tạo database gồm các bảng
 ![image](https://github.com/user-attachments/assets/cb1e1f41-7a60-4867-b6a6-d737cc70fd08)
 
 
-các bảng diagram thuộc tích CK, Fk 
+các bảng diagram thuộc tích CK, Fk , trường phi chuẩn GhiChu ở bảng DatVe
 
 
-![image](https://github.com/user-attachments/assets/434d42aa-81d4-4e26-9917-d10284eec60f)
+![image](https://github.com/user-attachments/assets/f767fca8-52f7-419f-8a5a-39239206585f)
+
 
 
 Thêm trường phi chuẩn vào bảng DatVe
 
 ![image](https://github.com/user-attachments/assets/97662a28-b001-43d1-a190-d872285a63bc)
 
-Trigger 
+Thêm Trigger 
 
 ![image](https://github.com/user-attachments/assets/d8172141-7386-4441-a97a-4ad69aa24a96)
 
